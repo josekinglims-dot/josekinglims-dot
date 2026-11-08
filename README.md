@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Jose 👋
 
-<!--
-**josekinglims-dot/josekinglims-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Karatina University
+📍 Karatina, Kenya
 
-Here are some ideas to get you started:
+**What I do:**
+- 🌐 Networking | eNSP | CCNA Concepts
+- 🐍 Python for Network Automation
+- 🛠️ Building small tools (subnet calculators, lab configs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Goal:**
+Learning to build real solutions while in campus.
+
+**Tech:** Python | Wireshark | VirtualBox | Git | Huawei eNSP
+
+---
+📫 Let's connect! Check my projects below 👇
